@@ -202,11 +202,6 @@ Generated Itinerary
 
 ---
 
-# 📄 License
-
-This project is built for educational and portfolio purposes.
-
----
 
 # 👨‍💻 Author
 
@@ -214,4 +209,5 @@ This project is built for educational and portfolio purposes.
 🎓 Computer Science Engineer  
 
 🔗 GitHub: [Rhythm Sharma](https://github.com/Rhythm22Sharma)
+
 
