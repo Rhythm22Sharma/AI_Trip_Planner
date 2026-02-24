@@ -1,8 +1,8 @@
 # ✈️ AI Trip Planner
 
-An intelligent AI-powered travel planning system that generates personalized travel itineraries based on user preferences such as destination, duration, and budget.
+An intelligent AI-powered travel planning system that generates personalized travel itineraries based on user preferences such as destination, duration and budget.
 
-This project uses an **agent-based LLM workflow** with structured prompt engineering, tool integration, logging, and custom exception handling. It includes both a FastAPI backend and a Streamlit frontend.
+This project uses an **agent-based LLM workflow** with structured prompt engineering, tool integration, logging and custom exception handling. It includes both a FastAPI backend and a Streamlit frontend.
 
 ---
 
@@ -214,3 +214,4 @@ This project is built for educational and portfolio purposes.
 🎓 Computer Science Engineer  
 
 🔗 GitHub: [Rhythm Sharma](https://github.com/Rhythm22Sharma)
+
